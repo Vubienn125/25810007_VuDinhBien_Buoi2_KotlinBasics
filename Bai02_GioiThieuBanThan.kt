@@ -1,5 +1,7 @@
 // 25810007_VuDinhBien
 
+package com.ute.baitapthuchanhbuoi2
+
 fun main() {
     val hoTen = "Vu Dinh Bien"
     val namSinh = 2000
